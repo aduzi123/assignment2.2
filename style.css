@@ -1,0 +1,14 @@
+div a {
+  background-color: pink;
+  padding: 20px;
+}
+
+a > h1 {
+  background-color: green;
+  color: white;
+}
+
+
+a + a {
+  background-color: orange;
+}
